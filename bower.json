@@ -1,0 +1,29 @@
+{
+  "name": "evo.se.ui",
+  "version": "1.0.0",
+  "description": "EVO SE UI Application",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular-bootstrap": "0.13.3",
+    "angular-mocks": "1.4.3",
+    "angular-resource": "~1.4.x",
+    "angular-route": "1.4.3",
+    "angularjs": "1.4.3",
+    "bootstrap": "3.3.5",
+    "jasmine": "2.0.2"
+  },
+  "resolutions": {
+    "angular": "1.4.3",
+    "angular-bootstrap": "0.13.3",
+    "angularjs": "1.4.3",
+    "angular-mocks": "1.4.3",
+    "bootstrap": "3.3.5",
+    "angular-route": "1.4.3",
+    "angular-resource": "~1.4.x"
+  }
+}
